@@ -4,7 +4,6 @@ Me chamo Artur Silva Lucio, sou um jovem fascinado por tecnologia e que almeja t
 
 Estou me graduando em Segurança da Informação na FATEC São Caetano do Sul, além disso estou sempre atrás de novos aprendizados, seja por meio de cursos ou laboratórios práticos.
 
-* Atualmente me especializando SQL injection pela PortSwigger Academy
 
 
 ## Skills
